@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo 'haha tests'",
     "prebuild": "npm test",
-    "build": "echo 'le build'"
+    "build": "sed -i 's/Henlo/Hello/g' index.html"
   },
   "repository": {
     "type": "git",
