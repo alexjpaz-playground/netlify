@@ -1,0 +1,22 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "https://nifty-davinci-3d4226.netlify.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'haha tests'",
+    "prebuild": "npm test",
+    "build": "echo 'le build'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjpaz-playground/netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexjpaz-playground/netlify/issues"
+  },
+  "homepage": "https://github.com/alexjpaz-playground/netlify#readme"
+}
